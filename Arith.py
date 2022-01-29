@@ -1,3 +1,6 @@
+# arith.py
+# This program demonstrates arithmetic
+# author: Catriona Murray
 p1 = 2 +4
 p2 = 2+4
 #p3 = 2 2+4

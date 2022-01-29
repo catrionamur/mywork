@@ -15,4 +15,4 @@ elif bmi < 25:
 elif bmi < 30:
   print("Your BMI is classed as overweight")
 else:
-  print("our BMI is classed as obese")
+  print("Your BMI is classed as obese")
