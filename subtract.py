@@ -1,3 +1,2 @@
-x = int(21 - 4)
-
-print('X is = to ' + str(x))
+x = (21 - 4)
+print ("X is equal to " + str(x))
