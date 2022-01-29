@@ -1,2 +1,2 @@
 y = 2==3
-print ("The answer is: " + str(y))
+print ("y is equal to " + str(y))
