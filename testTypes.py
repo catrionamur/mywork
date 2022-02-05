@@ -1,5 +1,5 @@
 # testTypes.py
-# Playing around with variables of different types
+# Lab week 3:Playing around with variables of different types
 # author: Catriona Murray
 i = 3
 fl = 3.5
