@@ -16,3 +16,4 @@ tenth = int(input("Enter tenth number: "))
 
 numberList = [first,second,third,fourth,fifth, sixth, seventh,eight,ninth,tenth]
 print("here is a random number {} ",np.random.choice(numberList, size=1, replace=False)) # numpy.random.choice() function is used to get random elements from a NumPy array
+# size signifies the number of rows in the array, in this case its a 1d array 
