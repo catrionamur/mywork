@@ -1,7 +1,8 @@
+# grade2.py
+#author: Catriona Murray
 # This program reads in
-# a students percentage
-# and prints out the
-# corresponding grade taking into account rounding percentages.  Another option is to use ceiling math function to round the values up
+# a students percentage grade and prints out the corresponding grade taking into account rounding percentages.  
+# #Another option is to use ceiling math function to round the values up
 percentage = float(input("Enter the percentage: "))
 #print (percentage)
 if percentage < 0 or percentage > 100:

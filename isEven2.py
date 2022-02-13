@@ -3,7 +3,7 @@
 # author: Catriona Murray
 guessLimit = -1 #Threshold for breaking loop
 guess = int(input("Please guess the number:")) #Take in user input as int.
-while guess != guessLimit: # do the below activities while the number entered is not = -1
+while guess != guessLimit: # do the below activities until the number entered is not = -1
     if (guess % 2) == 0:  # if the number entered is even print out that its an even number
         print ("{} is an even number".format(guess))
     else:
