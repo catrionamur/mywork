@@ -1,0 +1,7 @@
+Names []
+Modules []
+myStr = ""
+
+
+studentName = (input("Enter first number: "))
+Names.append (studentName)
